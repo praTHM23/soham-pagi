@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Soham Pagi</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soham-pagi" alt="soham-pagi" /></a> </p>
-
+- 🌱 I’m currently learning **Cloud Computing, Competitive Programming, MySQL**
+- 
 - 👨‍💻 All of my projects are available at [soham-pagi.github.io](soham-pagi.github.io)
 
 - 💬 Ask me about **c++, java, python**
 
-- 📫 How to reach me [click here](sohampagi@gmail.com)
+- 📫 How to reach me [**click here**](mailto:sohampagi@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
