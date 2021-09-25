@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **c++, java, python**
 
-- 📫 How to reach me **sohampagi@gmail.com**
+- 📫 How to reach me [click here](sohampagi@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
