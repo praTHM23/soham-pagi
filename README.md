@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from India</h3>
 
 - 🌱 I’m currently learning **Cloud Computing, Competitive Programming, MySQL**
-- 
+ 
 - 👨‍💻 All of my projects are available at [soham-pagi.github.io](soham-pagi.github.io)
 
 - 💬 Ask me about **c++, java, python**
