@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing, Competitive Programming, MySQL**
  
-- 👨‍💻 All of my projects are available [**here**](soham-pagi.github.io)
+- 👨‍💻 All of my projects are available [**here**](https://soham-pagi.github.io)
 
 - 💬 Ask me about **c++, java, python**
 
